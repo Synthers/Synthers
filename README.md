@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Synthers
+- 👀 I’m interested in Gaming, Steganography, Cryptography, coding. 
+- 🌱 I’m currently learning PHP and LUA
+- 💞️ I’m looking to collaborate on ...
